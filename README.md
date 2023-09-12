@@ -26,4 +26,5 @@ On the fourth page, I have created a gallery of paintings, and each painting can
 ## Technologies used
 * HTML
 * CSS
+* PHP
 * JavaScript
